@@ -55,12 +55,12 @@
     <tbody>
         <tr>
             <td>01</td>
-            <td><a href="01">Music Player </a></td>
+            <td><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar01-player_de_musica">Music Player </a></td>
             <td align="center"><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar01-player_de_musica"><img width="300px" src=".github/preview01.jpg" /></a></td>
         </tr>
         <tr>
             <td>02</td>
-            <td><a href="02">Product Card</a></td>
+            <td><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar02-product_card">Product Card</a></td>
             <td align="center"><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar02-product_card"><img width="300px" src=".github/preview02.jpg" /></a></td>
         </tr>
     </tbody>
