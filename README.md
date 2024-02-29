@@ -63,6 +63,11 @@
             <td><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar02-product_card">Product Card</a></td>
             <td align="center"><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar02-product_card"><img width="300px" src=".github/preview02.jpg" /></a></td>
         </tr>
+        <tr>
+            <td>03</td>
+            <td><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar03-botoes_e_cursores">Botões e Cursores</a></td>
+            <td align="center"><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar03-botoes_e_cursores"><img width="300px" src=".github/preview03.jpg" /></a></td>
+        </tr>
     </tbody>
 </table>
 
