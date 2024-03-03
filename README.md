@@ -68,6 +68,11 @@
             <td><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar03-botoes_e_cursores">Botões e Cursores</a></td>
             <td align="center"><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar03-botoes_e_cursores"><img width="300px" src=".github/preview03.jpg" /></a></td>
         </tr>
+        <tr>
+            <td>04</td>
+            <td><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar04-chat">Chat</a></td>
+            <td align="center"><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar04-chat"><img width="300px" src=".github/preview04.jpg" /></a></td>
+        </tr>
     </tbody>
 </table>
 
