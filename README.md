@@ -73,6 +73,11 @@
             <td><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar04-chat">Chat</a></td>
             <td align="center"><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar04-chat"><img width="300px" src=".github/preview04.jpg" /></a></td>
         </tr>
+        <tr>
+            <td>05</td>
+            <td><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar05-calculadora">Calculadora</a></td>
+            <td align="center"><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar05-calculadora"><img width="300px" src=".github/preview05.jpg" /></a></td>
+        </tr>
     </tbody>
 </table>
 
