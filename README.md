@@ -86,6 +86,11 @@
             <td><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar06-cartao_de_embarque">Cartão de Embarque</a></td>
             <td align="center"><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar06-cartao_de_embarque"><img width="300px" src=".github/preview06.jpg" /></a></td>
         </tr>
+        <tr>
+            <td>07</td>
+            <td><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar07-site_bloco_carnaval">Cartão de Embarque</a></td>
+            <td align="center"><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar07-site_bloco_carnaval"><img width="300px" src=".github/preview07.jpg" /></a></td>
+        </tr>
     </tbody>
 </table>
 
