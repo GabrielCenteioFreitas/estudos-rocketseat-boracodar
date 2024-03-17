@@ -91,6 +91,11 @@
             <td><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar07-site_bloco_carnaval">Site de Blocos de Carnaval</a></td>
             <td align="center"><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar07-site_bloco_carnaval"><img width="300px" src=".github/preview07.jpg" /></a></td>
         </tr>
+        <tr>
+            <td>09</td>
+            <td><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar09-conversor_de_moedas">Conversor de Moedas</a></td>
+            <td align="center"><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar09-conversor_de_moedas"><img width="300px" src=".github/preview09.jpg" /></a></td>
+        </tr>
     </tbody>
 </table>
 
