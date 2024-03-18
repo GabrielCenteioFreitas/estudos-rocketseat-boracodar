@@ -96,6 +96,11 @@
             <td><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar09-conversor_de_moedas">Conversor de Moedas</a></td>
             <td align="center"><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar09-conversor_de_moedas"><img width="300px" src=".github/preview09.jpg" /></a></td>
         </tr>
+        <tr>
+            <td>10</td>
+            <td><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar10-pagina_de_clima">Página de Clima</a></td>
+            <td align="center"><a href="https://github.com/GabrielCenteioFreitas/estudos-rocketseat-boracodar10-pagina_de_clima"><img width="300px" src=".github/preview10.jpg" /></a></td>
+        </tr>
     </tbody>
 </table>
 
